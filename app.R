@@ -5,6 +5,7 @@ library(plotly)
 library(dplyr)
 library(ggplot2)
 library(readr)
+library(rsconnect)
 library(shinylive)
 
 # Chargement des bases de données + correction de celles-ci
