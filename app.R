@@ -8,7 +8,7 @@ library(readr)
 library(rsconnect)
 library(shinylive)
 
-# Chargement des bases de données + correction de celles-ci
+# Chargement des bases de données + ajustement
 
 arsenal24_25 <- read_csv("arsenal24-25.csv")
 arsenal_joueuses <- read_csv("arsenal - Joueuse.csv")
