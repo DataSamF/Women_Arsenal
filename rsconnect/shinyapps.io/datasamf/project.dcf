@@ -1,0 +1,10 @@
+name: project
+title:
+username: datasamf
+account: datasamf
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15483947
+bundleId: 10918167
+url: https://datasamf.shinyapps.io/project/
+version: 1
